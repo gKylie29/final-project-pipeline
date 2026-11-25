@@ -1,0 +1,6 @@
+# Jupyter / CoCalc
+.ipynb_checkpoints/
+*.sage-chat
+*.term
+
+# Python
